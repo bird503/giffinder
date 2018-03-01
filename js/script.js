@@ -19,6 +19,7 @@ $(document).ready(function(){
   function appendImageToGallery(srcURL) {
       // write a function that will append an <img> to the div with class="gallery"
       // using the URL provided in the parameters
+      
   }
 
   function callGiphyAPIWithSearchTerm(searchTerm) {
